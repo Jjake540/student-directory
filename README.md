@@ -1,6 +1,6 @@
 # student-directory
 
-Student directory script
+The student directory script allows you to manage a list of students
 
 ## How to use
 
